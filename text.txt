@@ -15,3 +15,6 @@ este es mi documento apuntando desde la rama master
 ojo este commit tiene cambio realizados desde la nueva ramas
 
 otra modificacion
+
+
+modificacion de equipo
