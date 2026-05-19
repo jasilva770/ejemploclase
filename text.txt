@@ -5,3 +5,6 @@ hola mundo y colombia
 >>>>>>> parent of 87d4354 (este es el segundo commit de ejemplo para revision)
 =======
 >>>>>>> parent of 87d4354 (este es el segundo commit de ejemplo para revision)
+
+esta es la rama master
+
